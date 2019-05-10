@@ -1,0 +1,3 @@
+exports.test = {
+	value:'test'
+}
