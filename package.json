@@ -1,6 +1,6 @@
 {
   "name": "cyphin",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "This module is for getting information from other sites",
   "main": "index.js",
   "scripts": {
